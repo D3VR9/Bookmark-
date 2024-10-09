@@ -1,1 +1,2 @@
 import Bookmark
+Bookmark.main()
