@@ -1,0 +1,2 @@
+import Bookmark
+Bookmark.main()
